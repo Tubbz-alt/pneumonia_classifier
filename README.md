@@ -10,7 +10,7 @@ with Deep Learning" <https://arxiv.org/pdf/1711.05225v3.pdf> ran a study where t
 
 **Dataset**
 
-This data set is different than the one used in the CheXNet paper. Our data came from the work of Radiological Society of North America (RSNA®) & US National Institutes of Health, The Society of Thoracic Radiology. Which contained a total of 6503 images. 
+This data set is different than the one used in the CheXNet paper. Our data came from Kaggle, but thanks to the work of Radiological Society of North America (RSNA®) & US National Institutes of Health, The Society of Thoracic Radiology. Which contained a total of 6503 images. 
 
 **Training Set**: 
 4707 images
