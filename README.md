@@ -10,16 +10,3 @@ This data set is different than the one used in the CheXNet paper. Our data came
 
 **Size: 1GB**
 Approximately 6000 chest x-ray images split up into 3 different folders (train, test, val)
-
-
-
-First our model was trained on Resnet
-(more info about residual networks here <https://arxiv.org/pdf/1512.03385.pdf>)
-
-
-
-
-
-
-
-![alt text](https://ujwlkarn.files.wordpress.com/2016/08/screen-shot-2016-08-07-at-4-59-29-pm.png?w=1493)
