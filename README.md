@@ -10,3 +10,6 @@ This data set is different than the one used in the CheXNet paper. Our data came
 
 **Size: 1GB**
 Approximately 6000 chest x-ray images split up into 3 different folders (train, test, val)
+
+
+Included in the repo is a python script that sends post requests to retrieve predictions from our model. We set up a RESTful API using Flask. 
